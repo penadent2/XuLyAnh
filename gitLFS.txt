@@ -1,0 +1,6 @@
+*.a
+*.aar
+*.so
+*.zip
+*.unity
+*.bundle
